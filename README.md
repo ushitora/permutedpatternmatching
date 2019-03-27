@@ -1,1 +1,1 @@
-# permutedpatternmatching
+# Algorithms for permuted pattern matching
